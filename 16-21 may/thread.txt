@@ -1,0 +1,2 @@
+
+A thread goes through various stages in its lifecycle. For example, a thread is born, started, runs, and then dies. 
